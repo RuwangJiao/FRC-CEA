@@ -2,11 +2,6 @@
  A feasible-ratio control technique for constrained optimization
 ***************************************************************************************************
 *
-*  Developer:         Ruwang Jiao
-*  Reference:         Ruwang Jiao, Sanyou Zeng, Changhe Li. A feasible-ratio control technique for constrained optimization[J]. Information Sciences, 2019, 502C:201-217.
-*  Email:             ruwangjiao@gmail.com
-*  Last modified:     04 February, 2019
-*
 *  This is the FRC-CEA in python 2.7 for Windows.
 *  This program is coded by the evolutionary computation group in China University of Geosciences.
 *  All the problems are in the directory PROBLEM, and the results will be put in the directory RESULT by the program.
@@ -21,3 +16,16 @@
 *  (2) population size (i.e., popsize=100)
 *
 ***************************************************************************************************
+# Acknowledge
+Please kindly cite this paper in your publications if it helps your research:
+```
+@article{jiao2019feasible,
+  title={A feasible-ratio control technique for constrained optimization},
+  author={Jiao, Ruwang and Zeng, Sanyou and Li, Changhe},
+  journal={Information Sciences},
+  volume={502},
+  pages={201--217},
+  year={2019},
+  publisher={Elsevier}
+}
+```
